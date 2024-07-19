@@ -1,0 +1,41 @@
+/* styles.css */
+
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos do cabeçalho */
+header {
+    background-color: #394440;
+    color: #06b17e;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Estilos das fotos */
+.photo {
+    margin: 20px;
+    text-align: center;
+}
+
+.photo img {
+    max-width: 100%;
+    border: 1px solid #000000;
+    border-radius: 5px;
+}
+
+.photo p {
+    font-size: 14px;
+    color: #000000;
+}
+
+/* Estilos do rodapé */
+footer {
+    background-color: #333;
+    color: #00ffb3;
+    text-align: center;
+    padding: 10px;
+}
